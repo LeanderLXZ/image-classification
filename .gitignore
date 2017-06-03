@@ -1,0 +1,6 @@
+*.tar.gz
+*.p
+.DS_Store
+/__pycache__/
+/cifar-10-batches-py/
+/.idea/
