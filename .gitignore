@@ -1,5 +1,6 @@
 *.tar.gz
 *.p
+*.swp
 .DS_Store
 /__pycache__/
 /cifar-10-batches-py/
