@@ -7,3 +7,5 @@
 > Main_Single_Batch.py  //Run this python file to train model using single batch of dataset.
 
 > Main_Full_Batch.py    //Run this python file to train model using full batch of dataset.
+
+> .gitignore            //Let git ignore some file and folders.
