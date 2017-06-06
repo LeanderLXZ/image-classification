@@ -10,8 +10,8 @@ valid_features, valid_labels = pickle.load(open('preprocess_validation.p', mode=
 
 # Hyperparameters #
 
-epochs = 10
-batch_size = 256
+epochs = 100
+batch_size = 64
 keep_probability = 0.75
 
 conv1_ksize = 3
